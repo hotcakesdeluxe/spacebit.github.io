@@ -1,0 +1,1184 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ghost",
+				"ghostcastle"
+			],
+			[
+				"play",
+				"pm.playerPositions"
+			],
+			[
+				"Player",
+				"PlayerManager"
+			],
+			[
+				"Scene",
+				"SceneManager.LoadScene"
+			],
+			[
+				"level",
+				"levelPaths"
+			],
+			[
+				"playerp",
+				"playerPositions"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"bullets",
+				"BulletsXBlades"
+			],
+			[
+				"sword",
+				"SwordBros"
+			],
+			[
+				"_",
+				"_material"
+			],
+			[
+				"playercount",
+				"playerCountAlphaFalloff"
+			],
+			[
+				"playerc",
+				"playerCountScale"
+			],
+			[
+				"selected",
+				"selectedPlayerCountScale"
+			],
+			[
+				"player",
+				"playerCount"
+			],
+			[
+				"playe",
+				"playerCounts"
+			],
+			[
+				"gameDesc",
+				"gameDescContainer"
+			],
+			[
+				"keybo",
+				"keyboardListenerP2"
+			],
+			[
+				"pla",
+				"player.Actions"
+			],
+			[
+				"Thereis",
+				"ThereIsNoPlayerUsingKeyboard"
+			],
+			[
+				"keyboardListenerp",
+				"keyboardListenerP1"
+			],
+			[
+				"players",
+				"players.Count"
+			],
+			[
+				"gamed",
+				"gameDescriptionScale"
+			],
+			[
+				"sele",
+				"selectedGameDescriptionScale"
+			],
+			[
+				"targ",
+				"target.rotation"
+			],
+			[
+				"dist",
+				"distFromWall"
+			],
+			[
+				"De",
+				"DetectWalls"
+			],
+			[
+				"Action",
+				"Actions.Green.WasPressed"
+			],
+			[
+				"tr",
+				"transform.position"
+			],
+			[
+				"TrailRd",
+				"TrailRenderer"
+			],
+			[
+				"Mathf",
+				"Mathf.Abs(f)"
+			],
+			[
+				"shot",
+				"shotRechargeRate"
+			],
+			[
+				"bar",
+				"barrel.position"
+			],
+			[
+				"gun",
+				"gunAngle"
+			],
+			[
+				"Vec",
+				"Vector3.forward"
+			],
+			[
+				"tar",
+				"targetDir"
+			],
+			[
+				"Qua",
+				"Quaternion.Euler"
+			],
+			[
+				"sqrMa",
+				"Vector3.sqrMagnitude"
+			],
+			[
+				"Qu",
+				"Quaternion.Euler"
+			],
+			[
+				"tran",
+				"transform.rotation"
+			],
+			[
+				"Math",
+				"Mathf.Atan2"
+			],
+			[
+				"fl",
+				"flipTime"
+			],
+			[
+				"Koreo",
+				"KoreoTrack"
+			],
+			[
+				"enemy",
+				"enemy.playingKoreo"
+			],
+			[
+				"c",
+				"characterActions"
+			],
+			[
+				"coun",
+				"countdown"
+			],
+			[
+				"Wait",
+				"WaitForSeconds(seconds)"
+			],
+			[
+				"Fade",
+				"FadeOut"
+			],
+			[
+				"Beat",
+				"BeatSnap"
+			],
+			[
+				"fad",
+				"fadeDuration"
+			],
+			[
+				"canvasRenderer",
+				"CanvasRenderer.SetAlpha(alpha)"
+			],
+			[
+				"pl",
+				"player.hit"
+			],
+			[
+				"GetCom",
+				"Component.GetComponent<T>()"
+			],
+			[
+				"input",
+				"inputDevice"
+			],
+			[
+				"ca",
+				"canInput"
+			],
+			[
+				"Pun",
+				"PunchQuadrant.None"
+			],
+			[
+				"defe",
+				"defend"
+			],
+			[
+				"ene",
+				"enemyTurn"
+			],
+			[
+				"enem",
+				"enemyTurn"
+			],
+			[
+				"at",
+				"attack"
+			],
+			[
+				"Top",
+				"TopLeft"
+			],
+			[
+				"evt",
+				"evt.HasIntPayload"
+			],
+			[
+				"Get",
+				"GetInteger"
+			],
+			[
+				"invul",
+				"invulnerability"
+			],
+			[
+				"debug",
+				"Debug.Log(message)"
+			],
+			[
+				"Bea",
+				"BeatTime"
+			],
+			[
+				"Be",
+				"BeatTime"
+			],
+			[
+				"Event",
+				"EventID"
+			],
+			[
+				"count",
+				"countDelay"
+			],
+			[
+				"deb",
+				"Debug.Log(message)"
+			],
+			[
+				"my",
+				"myObjectName"
+			],
+			[
+				"Right",
+				"RightMiss"
+			],
+			[
+				"Bto",
+				"BottomLeft"
+			],
+			[
+				"Re",
+				"ResetAudio"
+			],
+			[
+				"Start",
+				"StartCoroutine"
+			],
+			[
+				"def",
+				"defaultSnap.TransitionTo"
+			],
+			[
+				"in",
+				"invulnerability"
+			],
+			[
+				"Ani",
+				"Animator"
+			],
+			[
+				"Spr",
+				"SpriteRenderer"
+			],
+			[
+				"math",
+				"Mathf.Abs(value)"
+			],
+			[
+				"Sample",
+				"SampleTime"
+			],
+			[
+				"curr",
+				"currTier"
+			],
+			[
+				"cu",
+				"currTier"
+			],
+			[
+				"tierTex",
+				"tierText"
+			],
+			[
+				"In",
+				"InTime"
+			],
+			[
+				"Punch",
+				"PunchQuadrant"
+			],
+			[
+				"Debug",
+				"Debug.Log"
+			],
+			[
+				"Bottom",
+				"BottomRight"
+			],
+			[
+				"Bot",
+				"BottomLeft"
+			],
+			[
+				"pun",
+				"punchQuad"
+			],
+			[
+				"punc",
+				"punch"
+			],
+			[
+				"punch",
+				"punchQuad"
+			],
+			[
+				"Sampl",
+				"SampleTime"
+			],
+			[
+				"cur",
+				"curTime"
+			],
+			[
+				"State",
+				"StateMachineEnemy"
+			],
+			[
+				"curTi",
+				"currTier"
+			],
+			[
+				"point",
+				"pointPrefab"
+			],
+			[
+				"ra",
+				"radiusY"
+			],
+			[
+				"radius",
+				"radiusX"
+			],
+			[
+				"BeatS",
+				"BeatSnap"
+			],
+			[
+				"sample",
+				"sampleTime"
+			],
+			[
+				"KO",
+				"Koreography"
+			],
+			[
+				"au",
+				"audioSource.clip"
+			],
+			[
+				"Audio",
+				"AudioClip"
+			],
+			[
+				"Hide",
+				"HideInInspector"
+			],
+			[
+				"event",
+				"eventID"
+			],
+			[
+				"beat",
+				"beatTime"
+			],
+			[
+				"part",
+				"particleSystem"
+			],
+			[
+				"limb",
+				"limbPosition"
+			],
+			[
+				"att",
+				"attackLimb"
+			],
+			[
+				"bea",
+				"beatTime"
+			],
+			[
+				"be",
+				"beatTime"
+			],
+			[
+				"currCh",
+				"currChartPattern"
+			],
+			[
+				"Left",
+				"LeftMiss"
+			],
+			[
+				"scor",
+				"scoreTierNotify"
+			],
+			[
+				"tier",
+				"tier.Key"
+			],
+			[
+				"ti",
+				"tier.Key"
+			],
+			[
+				"ear",
+				"earlyMod"
+			],
+			[
+				"Pause",
+				"PauseMenu"
+			],
+			[
+				"FindGame",
+				"GameObject.FindGameObjectsWithTag(tag)"
+			],
+			[
+				"Load",
+				"Loader.LoadScene"
+			],
+			[
+				"Game",
+				"GameData"
+			],
+			[
+				"Canvas",
+				"CanvasRenderer"
+			],
+			[
+				"di",
+				"displayClock.enabled"
+			],
+			[
+				"WaitFor",
+				"WaitForSeconds(seconds)"
+			],
+			[
+				"e",
+				"enemyFalls"
+			],
+			[
+				"WaitF",
+				"WaitForEndOfFrame"
+			],
+			[
+				"el",
+				"elapsedTime"
+			],
+			[
+				"tim",
+				"Time.deltaTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/WinnitronLauncher/Assets/Options/RunGame.exe",
+			"settings":
+			{
+				"buffer_size": 2293760,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/WinnitronLauncher/Assets/Options/RunGame.ahk",
+			"settings":
+			{
+				"buffer_size": 4868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Stephen/Desktop/Restart.ahk.ahk",
+			"settings":
+			{
+				"buffer_size": 141,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Stephen/Documents/steveisonline"
+	],
+	"file_history":
+	[
+		"/C/WINNITRON_UserData/Options/winnitron_options.json",
+		"/C/WINNITRON/WINNITRON_Data/Options/Defaults/winnitron_options.json",
+		"/C/WINNITRON_UserData/Playlists/PhillyTron/beatboxing/winnitron_metadata.json",
+		"/C/Users/Stephen/AppData/Local/Temp/Temp1_Souls-like v02 (54-127).zip/Souls-like v02/Assets/Scripts/Controller/StateManager.cs",
+		"/C/WINNITRON_UserData/Playlists/PhillyTron/winnitron_metadata.json",
+		"/C/WinnitronLauncher/Assets/Options/winnitron_userdata_path.json",
+		"/C/WINNITRON_UserData/Playlists/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/BulletsXBlades/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Options/winnitron_text_english.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/BulletsXBlades/winnitron_metadata",
+		"/D/Unity_Games/wrestleDemo/Assets/Scripts/Player/PlayerInput.cs",
+		"/D/Unity_Games/wrestleDemo/Assets/Scripts/Player/IPlayerBehaviour.cs",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/ninjavanish/winnitron_metadata.json",
+		"/C/WINNITRON/WINNITRON.bat",
+		"/C/WINNITRON/WINNITRON_Data/Options/RunGame.ahk",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/ghostcastle/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/Snakelike/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/swordbros/winnitron_metadata.json",
+		"/C/WINNITRON/WinnitronLauncher_DATA/Options/RunGame.ahk",
+		"/D/Unity_Games/gravyTrain/Assets/Scripts/Actors/Actor_Rotation.cs",
+		"/D/Unity_Games/gravyTrain/Assets/Scripts/Actors/Actor_Movement.cs",
+		"/C/Users/Stephen/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/Stephen/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Stephen/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Stephen/Documents/steveisonline/index.html",
+		"/C/Users/Stephen/Documents/steveisonline/assets/css/main.css",
+		"/C/Users/Stephen/Documents/steveisonline/assets/css/style.css",
+		"/D/Stephen/Downloads/responsive-background-video/index.html",
+		"/D/Stephen/Downloads/responsive-background-video/js/index.js",
+		"/C/Users/Stephen/Documents/steveisonline/assets/js/index.js",
+		"/C/Users/Stephen/Documents/steveisonline/assets/css/otherfonts.css",
+		"/C/Users/Stephen/Documents/steveisonline/assets/css/font-awesome.min.css",
+		"/D/Stephen/Downloads/responsive-background-video/css/style.css",
+		"/C/Users/Stephen/Documents/steveisonline/assets/fonts/stylesheet.css",
+		"/C/Users/Stephen/AppData/Local/Temp/Temp1_fontawesome-free-5.0.8.zip/fontawesome-free-5.0.8/web-fonts-with-css/css/fa-brands.css",
+		"/C/Users/Stephen/Documents/maya/ARTv2/ARTv2.mod",
+		"/D/Stephen/Documents/maya/projects/WanderBard/scenes/bard_r_04.ma",
+		"/D/Stephen/Documents/maya/projects/WanderBard/scenes/bard_r_03.ma",
+		"/C/Users/Stephen/Desktop/testttt.json",
+		"/F/PHILLYTRON/WINNITRON_UserData/Playlists/_PhillyTron/CoolCat/winnitron_metadata.json",
+		"/F/PHILLYTRON/WINNITRON_UserData/Playlists/_PhillyTron/hastilude/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/deadorbit/winnitron_metadata.json",
+		"/D/Unity_Games/deadorbit/Assets/UnityVC/StandardSpecularVC.shader",
+		"/D/Unity_Games/deadorbit/Assets/UnityVC/StandardVC.shader",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/Indivisible/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/Indivisible/RunGame.ahk",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/CoolCat/winnitron_metadata.json",
+		"/D/Stephen/Downloads/CoolCatBuild-20180102T183957Z-001/CoolCatBuild/winnitron_metadata.json",
+		"/D/Stephen/Downloads/CoolCatBuild-20180102T032144Z-001/CoolCatBuild/winnitron_metadata.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/LauncherUIController.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Options/Defaults/winnitron_options.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/swordbros/RunGame.ahk",
+		"/D/Unity_Games/deadorbit/Assets/SpaceUnity/Read First.txt",
+		"/D/Unity_Games/deadorbit/Assets/Hit & Slashes Vol.3/Demo Scene/GameManagerHit.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Util/Logger.cs",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/realboxingactualboxing/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/grumble/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/queenofspacecoronation/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/beatboxing/winnitron_metadata.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Data/Playlist.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Runner.cs",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/The Sky Is Falling/winnitron_metadata.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/WinnitronNetwork.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Source/Binding/Key.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/PlaylistUIController.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Managers/OptionsManager.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Kino/Glitch/DigitalGlitch.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/tiledEyes.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/States/State.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Data/Game.cs",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/realboxingactualboxing/realboxingactualboxing/winnitron_metadata.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Kino/Glitch/Editor/AnalogGlitchEditor.cs",
+		"/D/Stephen/Downloads/swordbros_winnitron_1_0_1/build/Settings.json",
+		"/C/Users/Stephen/Desktop/realboxingactualboxing/realboxingactualboxing/winnitron_metadata.json",
+		"/C/WINNITRON/WINNITRON_Data/Options/winnitron_userdata_path.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/States/StateSwitcher.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/GameDescription.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/Playercount.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Kino/Glitch/Shader/DigitalGlitch.shader",
+		"/C/WinnitronLauncher-2.1.0/Assets/Kino/Glitch/Shader/AnalogGlitch.shader",
+		"/C/WinnitronLauncher-2.1.0/Assets/sketch.shader",
+		"/C/WinnitronLauncher-2.1.0/Assets/Kino/Glitch/AnalogGlitch.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/tiledEyesEditor.cs",
+		"/D/Unity_Games/deadorbit/Assets/Scripts/PlayerActions.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Managers/StateManager.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/AttractImgManager.cs",
+		"/C/WINNITRON_UserData/Playlists/_Credits/For More Secrets/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_Credits/With Help From/winnitron_metadata.json",
+		"/C/WINNITRON_UserData/Playlists/_Credits/Made By/winnitron_metadata.json",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Source/Binding/PlayerActionSet.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Source/Binding/PlayerAction.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Examples/MultiplayerWithBindings/PlayerActions.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Examples/KeyboardAndMouseProfile/CubeController.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/Managers/DataManager.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/GM.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Options/keymap_templates.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/GameLabel.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Plugins/GoKit/properties/splines/GoSpline.cs",
+		"/D/Stephen/Downloads/FootIK.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/LogOutputHandler.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/System/KeyTranslator.cs",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/beatboxing/RunGame.ahk",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/The Sky Is Falling/RunGame.ahk",
+		"/D/Unity_Games/InputViewer/Assets/KeyCodeViewer.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Scripts/Launcher/GameScreenshot.cs",
+		"/D/Unity_Games/deadorbit/Assets/FbxExporters/README.txt",
+		"/D/Unity_Games/deadorbit/Assets/FbxExporters/Integrations/Autodesk/maya/UnityFbxForMaya.txt",
+		"/C/Users/Stephen/Documents/dev.phillygamemechanics/arcadecab/index.php",
+		"/C/Users/Stephen/Documents/dev.phillygamemechanics/indiearcade/index.php",
+		"/C/WINNITRON_UserData/Playlists/_PhillyTron/InputViewer/winnitron_metadata.json",
+		"/D/Stephen/Downloads/WinnitronLauncher-master (2)/WinnitronLauncher-master/CHANGELOG.md",
+		"/C/Users/Stephen/AppData/Local/Temp/Temp1_SuperRetroShooter_Complete.zip/SuperRetroShooter_Complete/Assets/Scripts/ObjectPooler.cs",
+		"/D/Unity_Games/deadorbit/Assets/Scripts/ObjectPooler.cs",
+		"/C/WinnitronLauncher-2.1.0/Assets/Resources/AHK_templates/ExeGameTemplate.txt",
+		"/C/WinnitronLauncher-2.1.0/Assets/_Notes/About.txt",
+		"/C/WinnitronLauncher-2.1.0/Assets/Options/Defaults/Resources/winnitron_text_english.json",
+		"/C/WinnitronLauncher-2.1.0/Assets/Options/key_translation.json",
+		"/D/Unity_Games/deadorbit/Assets/Scripts/BulletBehavior.cs",
+		"/D/Unity_Games/beginnerAnimation/Assets/LocomotionSMB.cs",
+		"/D/Unity_Games/beginnerAnimation/Assets/SimpleLocomotion.cs",
+		"/D/Unity_Games/beginnerAnimation/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs",
+		"/D/Unity_Games/space_shooter_tutorial/Assets/_Complete-Game/Scripts/Done_PlayerController.cs",
+		"/D/Unity_Games/space_shooter_tutorial/Assets/_Complete-Game/Scripts/Done_WeaponController.cs",
+		"/D/Unity_Games/space_shooter_tutorial/Assets/_Complete-Game/Scripts/Done_Mover.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Examples/MultiplayerWithBindings/Player.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Source/Components/InControlManager.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Examples/MultiplayerWithBindings/PlayerManager.cs",
+		"/D/Unity_Games/deadorbit/Assets/InControl/Examples/MultiplayerBasic/Player.cs"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"forceQuitHoldTime",
+			"KillApp",
+			"ExitApp",
+			"Loop",
+			"settimer",
+			"icon",
+			"#",
+			"nav",
+			"height:",
+			"body",
+			"wrapper",
+			"loading",
+			"fff",
+			"wrapper",
+			"0.75",
+			"opacity",
+			"header",
+			"font-family",
+			"font",
+			"pm",
+			"getspawn",
+			"write",
+			"canrech",
+			"detect",
+			"distfromwall",
+			";\n",
+			");\n",
+			"tilespeed",
+			"contain",
+			"thereisnoplayerusingkey",
+			"keyboard",
+			"joystickli",
+			"./ ",
+			"Actions",
+			"mask",
+			"name",
+			"label",
+			"gun ",
+			"gun",
+			"fliptime",
+			"();\n",
+			";\n",
+			"\n\t",
+			"speedmulti",
+			")),",
+			"resetaudio",
+			"reset",
+			"resetaudio",
+			"defaultsnap",
+			"snap",
+			"comboevents",
+			"combotrigger",
+			"koreographer",
+			"playingko",
+			"fade",
+			"character",
+			"didpunch",
+			"hit",
+			"player",
+			"?",
+			"xbox",
+			"key",
+			"pause",
+			"settrigger(\"ko\")",
+			"settrigger",
+			"reset",
+			"hit",
+			"resetinv",
+			"hit",
+			"currentstate",
+			"ko",
+			"knocked",
+			"knockeddown",
+			"cam",
+			"start",
+			"attack =",
+			"attack",
+			"combo",
+			"ring",
+			"ko ",
+			"pause",
+			"end",
+			"ko",
+			"event",
+			"payload",
+			"paylod",
+			"payload",
+			"intpay",
+			"payload",
+			"value",
+			"combotest",
+			"defense",
+			"hit(){",
+			"scoretier",
+			"didpunchhit",
+			"invul",
+			"did",
+			"regist",
+			"combopunch",
+			"stamina -=",
+			"punch",
+			"hit()",
+			"hit",
+			"setinteger",
+			"eventid",
+			"public",
+			"ev.getintvalue",
+			"hit()",
+			"hit",
+			"character",
+			"anim",
+			"look",
+			"fall",
+			"input",
+			",(",
+			" ",
+			"-k ",
+			"-p ",
+			"pm",
+			"0.0.",
+			"0)",
+			"0,",
+			"1,",
+			",0.382683*size",
+			",(",
+			" ",
+			"  ",
+			"-k"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"),(",
+			",",
+			"",
+			"(",
+			"cmds",
+			"0.0",
+			"0.0)",
+			"0.0,",
+			"0.0",
+			"1.0,",
+			"),(",
+			",",
+			" ",
+			"",
+			"(",
+			"),(",
+			",",
+			", ",
+			"(",
+			"",
+			"),(",
+			")",
+			")(",
+			",)(",
+			",",
+			"(",
+			"//rename",
+			"invulnerability",
+			"attack",
+			"vulnerability",
+			"punch",
+			"",
+			"scoreTierNotifyRight",
+			"",
+			"lateMod",
+			"earlyMod",
+			"earlyMod1",
+			"left",
+			"Corner",
+			"Lose",
+			"Win",
+			"Kd",
+			"Fight",
+			"sm",
+			"IsPressed",
+			"FaceLeft",
+			"FaceUp",
+			"FaceRight",
+			"FaceBtm",
+			"LeftPunch",
+			"RightPunch",
+			"RightMod",
+			"LeftMod",
+			"FaceLeft",
+			"FaceUp",
+			"FaceRight",
+			"FaceBtm",
+			"opponentDialog",
+			"opponentTextbox",
+			"opponentAnim",
+			"2",
+			"4",
+			"lefthook",
+			"\"lefthook\"",
+			"\"righthook\"",
+			"RightHook",
+			"HookRight",
+			"straightleft",
+			"straightright",
+			"\"straightright\"",
+			"\"straightleft\"",
+			"straightright",
+			"straightleft",
+			"hookleft",
+			"hookright",
+			"AccuracyBonus",
+			"earlyMod",
+			"lateMod",
+			"punchleft",
+			"punchright",
+			"",
+			" ",
+			"downpunch",
+			"leftpunch",
+			"rightpunch",
+			"superpunch",
+			"uppunch",
+			"",
+			"downpunch",
+			"uppunch",
+			"rightpunch",
+			"leftpunch",
+			"superpunch",
+			"",
+			"superpunch",
+			"",
+			"downpunch",
+			"rightpunch",
+			"leftpunch",
+			"superpunch",
+			"uppunch",
+			"",
+			"==",
+			" ",
+			"four",
+			"two",
+			"three",
+			"one",
+			" ",
+			"IsInTransition",
+			"crowd",
+			"10",
+			"left",
+			"right",
+			"down",
+			"top",
+			"QUARTER",
+			"bpm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/WinnitronLauncher/Assets/Options/RunGame.exe",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2293760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/WinnitronLauncher/Assets/Options/RunGame.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3446,
+								3446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1896.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Stephen/Desktop/Restart.ahk.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "siteProj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Scripts\\Actor\\Enemy\\StateMachineEnemy.cs"
+			],
+			[
+				"ddr",
+				"Scripts\\DDRCommand.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
